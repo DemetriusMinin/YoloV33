@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/DemetriusMinin/YoloV33.git  # клонируете файлы из репозитория
 cd yolov3
-pip install -r requirements.txt  # скачивете файлы и библеотеке необходимые для работы YoloV3
+pip install -r requirements.txt  # скачиваете файлы и библиотеки необходимые для работы YoloV3
 ```
 
 </details>
