@@ -34,7 +34,7 @@ results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 <details>
 <summary>Вывод с помощью detect.py</summary>
 
-`detect.py` runs inference on a variety of sources, downloading [models](https://github.com/ultralytics/yolov5/tree/master/models) automatically from the latest YOLOv3 [release](https://github.com/ultralytics/yolov5/releases) and saving results to `runs/detect`.
+`detect.py`выполняет логический вывод из различных источников, автоматически загружая модели из последней версии YOLOv3 и сохраняя результаты в `runs/detect`.
 
 ```bash
 python detect.py --weights yolov5s.pt --source 0                               # камера
